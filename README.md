@@ -1,6 +1,6 @@
 # My AI Portfolio
 
-## Project 1: Simple AI Chatbot
+## Project 1: Simple AI Chatbot 🤖
 This is my first AI chatbot built using Python.
 
 ### How It Works:
